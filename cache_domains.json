@@ -112,11 +112,13 @@
 			"description": "CDN for wargaming.net",
 			"domain_files": ["wargaming.net.txt"]
 		},
+		/*
 		{
 			"name": "wsus",
 			"description": "CDN for windows updates",
 			"domain_files": ["windowsupdates.txt"]
-		},
+		}, 
+		*/
 		{
 			"name": "xboxlive",
 			"description": "CDN for xboxlive",
